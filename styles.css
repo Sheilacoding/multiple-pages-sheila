@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.links{
+    text-align: center;
+
+}
+.links-photo{
+    text-align: center;
+    margin-top: 30px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.homepage,.contact,.photo{
+    margin-right: 10px;
+}
